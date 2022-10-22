@@ -16,7 +16,11 @@ const Video = () => {
     <div className='content'>
 
         <h1> Your safe space.  </h1>
+<<<<<<< Updated upstream
         <p>Navigate your emotions.</p> 
+=======
+        <p>navigate your emotions.</p> 
+>>>>>>> Stashed changes
 
    
     <div>
